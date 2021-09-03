@@ -2,7 +2,7 @@
 layout: page
 navigation_title: 作品链接
 title: 自己的，整理的折腾的东西。
-permalink: /about/
+permalink: /work/
 ---
 
 
