@@ -1,24 +1,22 @@
 ---
 layout: page
-navigation_title: About
-title: About Evento
+navigation_title: 关于本站
+title: 本站的介绍
 permalink: /about/
 ---
 
-[Evento](https://github.com/boyney123/evento) a free to use open source Jekyll project I started that allows people to create internal/external events, showing times and information for anybody that wants to attend.
+[小刚爱折腾](https://github.com/iudd/note/) 
+小刚的计划，笔记站点，折腾着玩，把自己的一些心得，体会，过程，整理在站。
 
 # The Problem I was trying to solve
 
 
-At my current place of work we run internal speaker events called Brownbags.
- 
-Brownbags are a great platform and environment for professionals to speak about anything that interests them. 
+2021年的夏天刚刚过去，秋天悄悄来临。
+不想把时间消耗殆尽，不曾留下一丝痕迹。
+慢慢的整理一下，曾经的生活，现在的心情，以及未来的期许。也是记录，也是缅怀，也是憧憬。
 
-The main problem I found was that there was no **easy to use** platform to see what Brownbags, Internal Training or other events are coming up or have already gone, so I created [Evento](https://github.com/boyney123/evento)
 
-This free and opensource platform should allow any organisation or group to collect and share their events in one place.
-
-If you would like to contribute to the project or folk it for your own organisation or group feel free. 
+一把年纪，未来可期！ 
 
 <a href="https://github.com/boyney123/evento"><span class="icon icon--github">{% include icon-github.svg %}</span><span class="username">{{ include.username }}</span> Evento</a>
 

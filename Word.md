@@ -1,16 +1,18 @@
 ---
 layout: page
-navigation_title: About
-title: About Evento
+navigation_title: 作品链接
+title: 自己的，整理的折腾的东西。
 permalink: /about/
 ---
 
-[Evento](https://github.com/boyney123/evento) a free to use open source Jekyll project I started that allows people to create internal/external events, showing times and information for anybody that wants to attend.
 
-# The Problem I was trying to solve
+[博客](http://iyoud.freetzi.com)
+# 还有一些有趣的东西，值得期待
 
+[网盘](http://pan.iudd.icu/panomg)
 
-At my current place of work we run internal speaker events called Brownbags.
+[存储在网盘的静态站](http://www.iudd.icu)
+
  
 Brownbags are a great platform and environment for professionals to speak about anything that interests them. 
 
